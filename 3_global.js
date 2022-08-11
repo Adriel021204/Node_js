@@ -18,3 +18,7 @@ setTimeout(() => {           //setInterval inside setTImeout works
        console.log(`hello`);
    }, 10000);
 }, 1000)
+
+var message = '';
+console.log(global.message);   //global uesd only in their file created in
+                               //not available to be used outside   
