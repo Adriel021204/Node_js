@@ -19,4 +19,4 @@ function sayHello(name) {
   sayHello('Adriel')
   /*console.log(window) gives error,window or 
     document objects not used in js,used with 
-    runtime envir,node js used with files,os*/
+    runtime envir,node js used with fs,os*/
