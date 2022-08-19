@@ -1,4 +1,4 @@
-var MessageToEveryone = "Hello World!!!"
+let MessageToEveryone = "Hello World!!!"
 const FirstTime = "My first NodeJs code."
 
 console.log(MessageToEveryone);    //window.console.log in js
