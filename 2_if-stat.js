@@ -21,11 +21,11 @@ else{
 const a = 21, b = 31, c = 29
 if (a>b && a>c)
 {
-    console.log("A is larger")
+    console.log('A is larger')
 }else if(b>c)
 {
-    console.log("B is larger")
+    console.log('B is larger')
 }
 else{
-    console.log("C is larger")
+    console.log('C is larger')
 }
